@@ -1,7 +1,7 @@
 # sa-utils
 Several Star Atlas / Sage utilities
 
-## Sage dark mode
+## Sage dark mode (Chrome extension)
 Dark mode for Sage.\
 Has its own repo: https://github.com/Swift42/sagedarkmode
 
