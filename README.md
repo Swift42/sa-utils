@@ -2,7 +2,7 @@
 Several Star Atlas / Sage utilities
 
 ## Sage dark mode
-Dark mode for Sage
+Dark mode for Sage.\
 Has its own repo: https://github.com/Swift42/sagedarkmode
 
 ## Sage remove UI
