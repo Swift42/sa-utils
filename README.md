@@ -1,6 +1,14 @@
 # sa-utils
 Several Star Atlas / Sage utilities
 
-- Sage dark mode (has its own repo: https://github.com/Swift42/sagedarkmode )
-- Sage remove UI (saves GPU power on a Pi when using SLY Assistant)
-- Sage compact fleet list: https://github.com/Swift42/sa-utils/tree/main/compact_fleet_list
+## Sage dark mode
+Dark mode for Sage
+Has its own repo: https://github.com/Swift42/sagedarkmode
+
+## Sage remove UI
+Removes the Sage UI and therefore saves GPU power on e.g. a Raspberry Pi when using SLY Assistant
+
+## Sage compact fleet list
+Hides some unimportant elements of the fleet list for a more compact view.
+Especially useful if you have a low screen resolution.
+https://github.com/Swift42/sa-utils/tree/main/compact_fleet_list.user.js
